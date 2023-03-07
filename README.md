@@ -1,4 +1,4 @@
-# KY_Charities
+# Project Plan
 
 ## Purpose
 This project will examine the weather data from 2022 along with my fitbit activity.
