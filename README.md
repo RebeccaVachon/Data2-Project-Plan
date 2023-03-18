@@ -9,7 +9,7 @@ This project will examine the weather data from 2022 along with my fitbit activi
 Read TWO data files (JSON, CSV, Excel, etc.). 
 
 ### Feature 2
-Clean your data and perform a SQL join with your data sets using either plain sql or the pandasql Python library.
+Clean your data and perform a pandas merge with your two data sets, then calculate some new values based on the new data set.
 
 ### Feature 3
 Make a Tableau dashboard to display your data
